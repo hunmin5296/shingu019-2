@@ -347,8 +347,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/GameManager.cs"
 "Assets/GenericContainer.cs"
 "Assets/GenericContainerExample.cs"
+"Assets/GenericSingleton.cs"
+"Assets/MergeSystem/Item.cs"
+"Assets/MergeSystem/ItemInfo.cs"
+"Assets/MergeSystem/Slot.cs"
 "Assets/SampleController.cs"
 "Assets/Singleton.cs"
 -langversion:9.0
