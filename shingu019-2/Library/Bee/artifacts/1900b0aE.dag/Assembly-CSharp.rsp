@@ -349,6 +349,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/GenericContainer.cs"
 "Assets/GenericContainerExample.cs"
+"Assets/SampleController.cs"
+"Assets/Singleton.cs"
 -langversion:9.0
 
 /deterministic
