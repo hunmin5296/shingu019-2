@@ -19,7 +19,7 @@ public class Slot : MonoBehaviour
         state = targetState;
     }
 
-    public void ItemgGrabbed()
+    public void ItemGrabbed()
     {
         Destroy(itemObject.gameObject);
         ChangeStateTo(SLOTSTATE.EMPTY);

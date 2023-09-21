@@ -351,6 +351,7 @@
 "Assets/GenericContainer.cs"
 "Assets/GenericContainerExample.cs"
 "Assets/GenericSingleton.cs"
+"Assets/MergeSystem/GameController.cs"
 "Assets/MergeSystem/Item.cs"
 "Assets/MergeSystem/ItemInfo.cs"
 "Assets/MergeSystem/Slot.cs"

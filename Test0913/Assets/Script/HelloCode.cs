@@ -21,9 +21,7 @@ public class HelloCode : MonoBehaviour
         Debug.Log("나이 :" + age);
         Debug.Log("키 :" + height);
         Debug.Log("여성 :" + isFemale);
-
-
-
+        
 
     }
 
